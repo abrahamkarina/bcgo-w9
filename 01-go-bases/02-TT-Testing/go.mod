@@ -1,6 +1,6 @@
-module bcgo-w9
+module github.com/abrahamkarina/bcgo-w9/02-TT-Testing
 
-go 1.21
+go 1.21.0
 
 require github.com/stretchr/testify v1.8.4
 
